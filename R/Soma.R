@@ -12,5 +12,7 @@
 #' @export
 
 soma <- function (x,y) {
-  x+y
+    paste(x,y)
 }
+
+
